@@ -1,1 +1,2 @@
 Git is a version control system where codes are used to communicate
+Sonia is learning everything about gitright now
